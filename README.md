@@ -93,4 +93,4 @@ process: Applies grayscale conversion, Gaussian blur, edge detection, and Hough 
 Feel free to open issues or pull requests to contribute to this project.
 :)
 <br>
-<pre>                                                                𝔞𝔫𝔬𝔫𝔶𝔪𝔬𝔲𝔰</pre>
+<pre>                                                                𝔞𝔫𝔬𝔫y𝔪𝔬𝔲𝔰</pre>
